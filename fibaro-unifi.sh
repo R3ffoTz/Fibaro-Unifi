@@ -1,7 +1,7 @@
 loginUnifi="\"XXXXX\"" #Login username to Unifi, replace XXXXX
 passUnifi="\"XXXXX\"" #Login password to Unifi, replace XXXXX
 urlUnifi="https://192.168.X.XXX:8443/" #IP to Unifi
-loginFibaro="name%40email.com " #Fibaro admin username, FibaroID must be used, @ must be formatted as %40 in email username
+loginFibaro="name%40email.com" #Fibaro admin username, FibaroID must be used, @ must be formatted as %40 in email username
 passFibaro="XXXXX" #Login password to Fibaro, replace XXXXX
 urlFibaro="192.168.X.XXX" #IP to Fibaro Home Center
 globalVarFibaro=("globalvariable1" "globalvariable2" "globalvariable3") #The names of your Global Variable in Fibaro separated with spaces
