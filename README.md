@@ -19,7 +19,7 @@ passUnifi="\"XXXXX\""
 urlUnifi="https://192.168.X.XXX:8443/" 
 #IP to Unifi
 
-loginFibaro="name%40email.com " 
+loginFibaro="name%40email.com" 
 #Fibaro admin username, FibaroID must beused, @ must be formatted as %40 in email username
 
 passFibaro="XXXXX" 
